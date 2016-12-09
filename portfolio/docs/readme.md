@@ -1,0 +1,1 @@
+All files with .doc and .pdf extension are in this folder.
